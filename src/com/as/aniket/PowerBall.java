@@ -14,7 +14,7 @@ import java.util.Arrays;
  * File Name: PowerBall.java
  * 
  * @author Aniket Choudhury
- * @year 20156
+ * @year 2016
  */
 /*
  * To compile you require: IntUtil.java RandomInt.java PowerBall.java
