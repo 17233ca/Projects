@@ -6,8 +6,8 @@ import java.util.Random;
  * File Name: RandomInt.java 
  * Generates int random numvers
  * 
- * @author Jagadeesh Vasudevamurthy
- * @year 2014
+ * @author Aniket Choudhury
+ * @year 2016
  */
 
 class RandomInt {

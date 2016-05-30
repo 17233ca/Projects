@@ -13,7 +13,7 @@ import java.util.Arrays;
 /**
  * File Name: PowerBall.java
  * 
- * @author Jagadeesh Vasudevamurthy
+ * @author Aniket Choudhury
  * @year 20156
  */
 /*

@@ -5,8 +5,8 @@ package com.as.aniket;
  * File Name: IntUtil.java 
  * All common routines that operates on basic type 'int'
  * 
- * @author Jagadeesh Vasudevamurthy
- * @year 2014
+ * @author Aniket Choudhury
+ * @year 2016
  */
 import java.util.Random;
 class IntUtil{
